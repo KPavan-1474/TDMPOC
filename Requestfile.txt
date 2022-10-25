@@ -1,0 +1,10 @@
+{
+  "database": "",
+  "database-connect": "false",
+  "type": "mask",
+  "rows": 100,
+  "mask-columns": [
+    "ssn",
+    "ccn"
+    ]
+}
